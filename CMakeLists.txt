@@ -4,7 +4,7 @@ set(PROJECT_NAME 381706-2_gavriushova_lab) #Создаем обычную лок
 project(${PROJECT_NAME}) # Название проекта
 
 set(vector vector) #Переменная с именем библиотеки
-set(vactorlib vectorlib)#Переменная с именем библиотеки
+set(vectorlib vectorlib)#Переменная с именем библиотеки
 
 set(CMAKE_CONFIGURATION_TYPES "Debug;Release" CACHE STRING "Configs" FORCE) #Создается переменная CMAKE_CONFIGURATION_TYPES со значением "Debug;Release" и меткой/разделом Configs, переменная сохраниется в специальном файле доступном из всех файлов,
 if(NOT CMAKE_BUILD_TYPE) # проверка имеющихся у компилятора вариантов сборки
