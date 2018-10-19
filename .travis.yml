@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../381706-2_gavriushova_lab
+  - cmake ../381706-2_gaviushova_lab
   - make -j
  # - cd ./bin/
   - ./vector/vector
