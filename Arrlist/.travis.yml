@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../381706-2_savosina_labs
+  - cmake ../381706-2_gavriushova_lab
   - make -j
   - ./arrlisttest/arrlisttest
 notifications:
