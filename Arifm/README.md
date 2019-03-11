@@ -1,3 +1,3 @@
 ﻿# Польская запись
 
-[![Build Status](https://travis-ci.org/AleksandraSavosina/381706-2_savosina_labs.svg?branch=lab_arithmetic)](https://travis-ci.org/AleksandraSavosina/381706-2_savosina_labs)
+[![Build Status](https://travis-ci.org/Varvara911/381706-2_gavriushova_lab.svg?branch=Arifm)](https://travis-ci.org/Varvara911/381706-2_gavriushova_lab)
