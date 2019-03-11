@@ -6,8 +6,8 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../381706-2_savosina_labs
+  - cmake ../381706-2_gavriushova_lab
   - make -j
-  - ./polynomtest/polynomtest
+  - ./stack_and_queue_test/stack_and_queue_test
 notifications:
   email: false
