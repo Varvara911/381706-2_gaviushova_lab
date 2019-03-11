@@ -1,6 +1,6 @@
 ﻿cmake_minimum_required(VERSION 2.8) #Ïðîâåðêà âåðñèè CMake.
 
-set(PROJECT_NAME 381706-2_savosina_labs) #Ñîçäàåì îáû÷íóþ ëîêàëüíóþ ïåðåìåííóþ ñ èìåíåì ïðîåêòà
+set(PROJECT_NAME 381706-2_gavriushova_lab) #Ñîçäàåì îáû÷íóþ ëîêàëüíóþ ïåðåìåííóþ ñ èìåíåì ïðîåêòà
 project(${PROJECT_NAME}) # Íàçâàíèå ïðîåêòà
 
 set(Polynom Polynom)
