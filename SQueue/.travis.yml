@@ -1,0 +1,13 @@
+language: cpp
+compiler:
+  - gcc
+  - clang
+before_script:
+  - mkdir ../build
+  - cd ../build
+script:
+  - cmake ../381706-2_gavriushova_lab
+  - make -j
+  - ./stack_and_queue_test/stack_and_queue_test
+notifications:
+  email: false
